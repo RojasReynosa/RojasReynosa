@@ -17,6 +17,7 @@
 - PHP
 - MySQL, Workbench, phpMyAdmin
 - Linux y Bash
+  
 🚀 Disfruto creando soluciones innovadoras y elegantes con estas herramientas. Estoy constantemente aprendiendo y mejorando mis habilidades.
 
 🌟 ¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás proyectos donde he aplicado estas tecnologías. ¡No dudes en explorarlos!
