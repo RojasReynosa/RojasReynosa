@@ -40,7 +40,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="urielr.reynosa@gmail.com"><img src="https://img.shields.io/badge/-urielr.reynosa@gmail.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://reynosa.website/Portafolio/"><img src="https://img.shields.io/badge/-Portafolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/uriel-rojas-reynosa-605720249/"><img src="https://img.shields.io/badge/-Uriel%20Rojas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 </p>
