@@ -43,7 +43,7 @@
  <hr>
   <p align="center">
 ### 👾 &nbsp;GitHub Stats
-    
+<hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=RojasReynosa&show_icons=true&locale=en" alt="RojasReynosa" width="410" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RojasReynosa&show_icons=true&locale=en&layout=compact" alt="RojasReynosa" /></p>
 <hr>
