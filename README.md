@@ -22,7 +22,7 @@
 
 🌟 ¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás proyectos donde he aplicado estas tecnologías. ¡No dudes en explorarlos!
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,6 +32,8 @@
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -40,7 +42,8 @@
 <a href = "mailto:urielr.reynosa@gmail.com target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 
- <hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <p align="center">
 
 ### ⚙️ &nbsp;GitHub Stats
@@ -48,7 +51,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RojasReynosa&show_icons=true&locale=en&layout=compact" alt="RojasReynosa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RojasReynosa&show_icons=true&locale=en" alt="RojasReynosa" width="410" /></p>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🤝🏻 &nbsp;Conecta conmigo 
 
