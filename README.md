@@ -40,7 +40,14 @@
 <a href = "mailto:urielr.reynosa@gmail.com target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 
+ <hr>
+  <p align="center">
+### 👾 &nbsp;GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RojasReynosa-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RojasReynosa-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+
+<hr>
 
 ### 🤝🏻 &nbsp;Conecta conmigo 
 
