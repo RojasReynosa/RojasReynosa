@@ -7,16 +7,7 @@
 
 👋 ¡Hola! Soy Uriel Rojas, un apasionado del desarrollo con experiencia en diversas tecnologías.
 
-💻 Me especializo en:
-
-- HTML
-- CSS
-- JavaScript
-- ReactJS
-- Node.js
-- PHP
-- MySQL, Workbench, phpMyAdmin
-- Linux y Bash
+💻 Me especializo en el desarrollo full-stack, manejando tanto la parte del cliente (front-end) como la del servidor (back-end). Puedo trabajar en la creación de interfaces de usuario dinámicas y atractivas, al tiempo que gestiono la lógica y funcionalidad detrás de escena para garantizar que las aplicaciones funcionen sin problemas.
   
 🚀 Disfruto creando soluciones innovadoras y elegantes con estas herramientas. Estoy constantemente aprendiendo y mejorando mis habilidades.
 
